@@ -10,10 +10,10 @@
     <h1>Hello world<h1>
 
     <?php
-    $nama = 'Ahammad';
-    $umur = 20 + 3;
+    $nama = 'Chai';
+    $umur = 20;
 
-    echo "$nama berumur 23 tahun";
+    echo "$nama berumur $umur tahun";
     ?>
 
 </body>
