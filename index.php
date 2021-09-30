@@ -11,11 +11,10 @@
 
     <?php
     $nama = 'Ahammad';
+    $umur = 20 + 3;
 
-    echo 'Nama Kamu $nama';
-    echo '<br>';
-    echo "Nama Kamu $nama";
+    echo "$nama berumur 23 tahun";
     ?>
-    
+
 </body>
 </html>
