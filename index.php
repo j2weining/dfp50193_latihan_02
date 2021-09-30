@@ -10,7 +10,7 @@
     <h1>Hello world</h1>
 
     <?php
-    $nama = 'Chai';
+    $nama = 'Chai Wei Ning';
     $umur = 20;
 
     echo "$nama berumur $umur tahun";
