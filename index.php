@@ -16,5 +16,6 @@
     echo '<br>';
     echo "Nama Kamu $nama";
     ?>
+    
 </body>
 </html>
